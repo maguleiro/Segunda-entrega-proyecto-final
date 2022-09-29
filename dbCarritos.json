@@ -1,0 +1,17 @@
+[
+    {
+        "productos": [
+            {
+                "nombre": "Teclado Redragon",
+                "description": "Teclado RGB",
+                "codigo": "T001",
+                "foto":"",
+                "precio": 8000,
+                "id":1,
+                "timpestamp": "06/09/2022 04:32:32"
+            }
+        ],
+        "id": "1",
+        "timpestamp": "04:51:19"
+    }
+]

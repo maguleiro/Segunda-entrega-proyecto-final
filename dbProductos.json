@@ -1,0 +1,47 @@
+[
+    {
+        "nombre": "Teclado Redragon",
+                "description": "Teclado RGB",
+                "codigo": "T001",
+                "foto":"",
+                "precio": 8000,
+                "id":1,
+                "timpestamp": "06/09/2022 04:32:32"
+    },
+    {
+        "nombre": "Auriculares Redragon",
+                "description": "Auris",
+                "codigo": "AR001",
+                "foto":"",
+                "precio": 15000,
+                "id":2,
+                "timpestamp": "06/09/2022 04:32:32"
+    },
+    {
+        "nombre": "Mouse Logitech",
+                "description": "COn botones macros",
+                "codigo": "M001",
+                "foto":"",
+                "precio": 6000,
+                "id":3,
+                "timpestamp": "06/09/2022 04:32:32"
+    },
+    {
+        "nombre": "Gabinete Gamer",
+                "description": "Luces Rgb",
+                "codigo": "PC001",
+                "foto":"",
+                "precio": 12000,
+                "id":4,
+                "timpestamp": "06/09/2022 04:32:32"
+    },
+    {
+        "nombre": "Monitor 24p",
+                "description": "Monitor 24 pulagas, 144hz",
+                "codigo": "MN001",
+                "foto":"",
+                "precio": 65000,
+                "id":5,
+                "timpestamp": "06/09/2022 04:32:32"
+    }
+]
